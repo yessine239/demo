@@ -1,8 +1,37 @@
 [
   {
-    "name": "",
-    "year": ,
+    "name": "Trilogie originale",
+    "director": "Mo5rej star warses",
+    "year": 1977,
     "photo": "",
-    "description": ""
+    "description": "Lfilm louel mtaa star wars eli ena matfrjcthc fih honestly"
   },
+  {
+    "name": "Prélogie",
+    "director": "Mo5rej star warses",
+    "year": 1999,
+    "photo": "",
+    "description": "Lfilm theni mtaa star wars glbstkf"
+  },
+  {
+    "name": "Troisieme trilogie",
+    "director": "Mo5rej star warses",
+    "year": 2005,
+    "photo": "",
+    "description": "Star wars film wa7de5er yup"
+  },
+  {
+    "name": "Titanic",
+    "director": "James Cameron",
+    "year": 1997,
+    "photo": "",
+    "description": "Rose and Jack's da3ara"
+  },
+  {
+    "name": "Avatar",
+    "director": "James Cameron",
+    "year": 2009,
+    "photo": "",
+    "description": "Ma5lou9at zro9 8ariba"
+  }
 ]
